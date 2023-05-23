@@ -1,6 +1,7 @@
 import React from "react";
 import './App.css'
 import Contact from "./Contact";
+import User from "./User";
 
 // React component
 const Home = ()=>{
@@ -8,6 +9,10 @@ const Home = ()=>{
         <div className="home">
             <h1>Hello world</h1>
             <Contact/>
+            <User firstname="Blard" lastname="Omu" occupation="junior Dev"  />
+           
+
+
         </div>
     )
 }
