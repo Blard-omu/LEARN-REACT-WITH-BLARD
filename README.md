@@ -1,6 +1,7 @@
 ### LEARN REACT WITH BLARD
 
-<img src="https://solguruz.com/wp-content/uploads/2022/09/ReactJS-Framework-Benefits.png" alt="" width="400px" height="400px" />
+<img src="https://solguruz.com/wp-content/uploads/2022/09/ReactJS-Framework-Benefits.png" alt="" width="100%" height="400px" />
+
 # OUTLINE
 - Inatalling Node and other extensions
 - What is React?
