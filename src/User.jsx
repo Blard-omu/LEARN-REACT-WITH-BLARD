@@ -7,7 +7,7 @@ const User = (props) => {
     <div>
         <h1>{props.firstname} {props.lastname}</h1>
         <small>{props.occupation}</small>
-        <Skills skills = {['HTML', 'CSS', 'Javascript', 'React']}/>
+        <Skills stacks = {['HTML', 'CSS', 'Javascript', 'React']}/>
     </div>
   )
 }
